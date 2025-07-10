@@ -1,3 +1,5 @@
+## Work in progress
+
 # Retrieval-augmented generation (RAG)
 Different Retrieval-augmented generation (RAG) implementations.
 
