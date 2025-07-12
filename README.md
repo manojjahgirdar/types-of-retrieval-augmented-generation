@@ -13,3 +13,4 @@ Different Retrieval-augmented generation (RAG) implementations.
 | Corrective RAG (CRAG)              | Iteratively refines generated responses by fact-checking against retrieved information| High-stakes scenarios requiring increased accuracy and fact verification               | |
 | Self-RAG                           | The model critiques and improves its own responses using self-reflection and retrieval| Tasks requiring high accuracy and when there's time for multiple refinement steps     | |
 | Agentic RAG                        | Combines RAG with agentic behavior, allowing for more complex, multi-step problem-solving| Complex tasks requiring planning, decision-making, and external tool use              |[Agentic RAG with OpenAI.ipynb](/Agentic%20RAG%20with%20OpenAI.ipynb)|
+ 
